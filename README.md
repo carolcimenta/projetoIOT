@@ -23,6 +23,7 @@ Este trabalho propõe a criação de um protótipo que mede a umidade do solo em
 <p>O módulo WiFi NodeMCU foi escolhido como placa de desenvolvimento pois além de poder ser programado utilizando a IDE do Arduino também possui o chip ESP8266, ou seja, comunicação WiFi que possibilita o uso do protocolo MQTT, essa comunicação está sendo feita via aplicativo da Microsoft Store MQTT Box e para interface via aplicativo no celular o MQTT Dash.
 <p>•Sensor de umidade com potenciômetro.</p>
 <p>•Módulo WiFi NodeMCU ESP8266. </p>
+<p>•Cabo USB. </p>
 <p>•Módulo Relé.
 <p>•Mini bomba de água submersa.
 <p>•Conversor de Nível Lógico 3,3-5V Bidirecional.
