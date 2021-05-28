@@ -17,7 +17,7 @@
 </h4>
 
 <h2>Introdução</h2>
-Este trabalho propõe a criação de um protótipo que mede a umidade do solo em um vaso de planta utilizando um sensor higrômetro e caso a umidade esteja abaixo do esperado o módulo deste sensor enviará a informação ao módulo ESP8266 NodeMCU, tendo nos baseando em projetos como os de Caroline Dunn e Pedro Bertoleti.
+Este trabalho propõe a criação de um protótipo que mede a umidade do solo em um vaso de planta utilizando um sensor higrômetro e caso a umidade esteja abaixo do esperado o módulo deste sensor enviará a informação ao módulo ESP8266 NodeMCU.
 
 <h2>Materiais e Métodos</h2>
 <p>O módulo WiFi NodeMCU foi escolhido como placa de desenvolvimento pois além de poder ser programado utilizando a IDE do Arduino também possui o chip ESP8266, ou seja, comunicação WiFi que possibilita o uso do protocolo MQTT, essa comunicação está sendo feita via aplicativo da Microsoft Store MQTT Box e para interface via aplicativo no celular o MQTT Dash.
